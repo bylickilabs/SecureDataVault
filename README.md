@@ -87,9 +87,7 @@ Beim ersten Start wirst du aufgefordert, ein Masterpasswort zu vergeben.
 ## 📸 Benutzeroberfläche
 
 - Login mit Masterpasswort
-- Dateiübersicht mit Metadaten
 - Ein-Klick-Import & Export
-- Sperrfunktion mit automatischem Timeout
 
 ---
 
