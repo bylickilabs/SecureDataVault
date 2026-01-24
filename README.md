@@ -106,9 +106,3 @@ Der Autor übernimmt keine Haftung für Datenverlust durch falsche Bedienung ode
 Bylickilabs Software Solutions
 
 🔗 GitHub: https://github.com/bylickilabs
-
----
-
-## 📜 Lizenz
-
-[LICENSE](LICENSE)
