@@ -63,8 +63,8 @@ pip install customtkinter argon2-cffi cryptography
 ## 🚀 Installation & Start
 
 ```bash
-git clone https://github.com/bylickilabs/secure-data-vault.git
-cd secure-data-vault
+git clone https://github.com/bylickilabs/SecureDataVault.git
+cd SecureDataVault
 python app.py
 ```
 
