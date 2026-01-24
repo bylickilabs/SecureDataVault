@@ -77,8 +77,8 @@ Beim ersten Start wirst du aufgefordert, ein Masterpasswort zu vergeben.
 ```text
 .
 ├── app.py           # Hauptanwendung
-├── auth.db          # Passwort-Hash (lokal)
-├── vault.vault      # Verschlüsselter Tresor
+├── auth.db          # Passwort-Hash (lokal) (wird Automatisch erzeugt)
+├── vault.vault      # Verschlüsselter Tresor (wird Automatisch erzeugt)
 └── README.md
 ```
 
