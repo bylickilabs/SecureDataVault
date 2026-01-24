@@ -111,5 +111,4 @@ Bylickilabs Software Solutions
 
 ## 📜 Lizenz
 
-Dieses Projekt ist aktuell **nicht explizit lizenziert**.  
-Bitte kontaktiere den Autor vor kommerzieller Nutzung.
+[LICENSE](LICENSE)
